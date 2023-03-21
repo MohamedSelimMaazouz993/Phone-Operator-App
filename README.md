@@ -2,9 +2,9 @@
 
 ## Requirements :
 
-### before viewing " Phone Operator App" you need to login 
+### Before viewing " Phone Operator App" you need to login 
 
-### username & password : slim
+### Username & Password : slim
 
 ## Prerequisites:
 
@@ -12,7 +12,7 @@
 
 ### Gradle version : 7.4.2
 
-### if you are using older version try to downgrade gradle version 
+### If You Are Using Older Version Try To Downgrade Gradle Version 
 
 ### It will work smooth For you , Enjoy ! :D
 
