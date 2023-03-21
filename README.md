@@ -1,5 +1,11 @@
 # Phone-Operator-App
 
+## Requirements :
+
+### before viewing " Phone Operator App" you need to login 
+
+username & password : slim
+
 ## Prerequisites:
 
 ### Android Studio 2022
